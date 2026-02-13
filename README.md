@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate with anyone to help them
-- 📫 How to reach me => https://www.instagram.com/freaky_boy_osama/#
+- 📫 How to reach me => https://www.instagram.com/itz.__sama/#
 - 😄 Pronouns: Osama,Usama,Sama
 
 <!---
